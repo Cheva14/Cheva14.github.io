@@ -15,14 +15,8 @@ function countDown() {
   //milliseconds
   console.log(timeSpan)
 
-  if (timeSpan <= -day) {
-    timeLeft.innerHTML = 'Hope you had a nice Birthday!!'
-    clearInterval(timerId)
-    return
-  }
-
   if (timeSpan <= 0) {
-    timeLeft.innerHTML = 'Happy Birthday!!'
+    timeLeft.innerHTML = 'cheva.net is Online!!!!'
     clearInterval(timerId)
     return
   }
