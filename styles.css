@@ -22,7 +22,7 @@ body {
   min-height: 100vh;
 }
 
-main {
+.box {
   margin-top: auto;
   max-width: fit-content;
   width: 80vw;
@@ -35,7 +35,7 @@ main {
   padding: 1rem;
 }
 
-.main:hover {
+.box:hover {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   color: white;
 }
