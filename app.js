@@ -12,7 +12,7 @@ let timerId;
 function countDown2() {
   const today = new Date();
   const timeSpan = today - start;
-  console.log(timeSpan);
+  // console.log(timeSpan);
 
   const days = Math.floor(timeSpan / day);
   const hours = Math.floor((timeSpan % day) / hour);
