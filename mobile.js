@@ -14,6 +14,12 @@ const overlay2 = document.querySelector(".overlay2");
 const overlay3Open = document.querySelector(".open-overlay3");
 const overlay3Close = document.querySelector(".cls3");
 const overlay3 = document.querySelector(".overlay3");
+const overlay4Open = document.querySelector(".open-overlay4");
+const overlay4Close = document.querySelector(".cls4");
+const overlay4 = document.querySelector(".overlay4");
+const overlay5Open = document.querySelector(".open-overlay5");
+const overlay5Close = document.querySelector(".cls5");
+const overlay5 = document.querySelector(".overlay5");
 
 overlay1Open.addEventListener("click", () => {
   overlay1.classList.add("overlay1--active");
@@ -39,6 +45,22 @@ overlay3Close.addEventListener("click", () => {
   overlay3.classList.remove("overlay3--active");
 });
 
+overlay4Open.addEventListener("click", () => {
+  overlay4.classList.add("overlay4--active");
+});
+
+overlay4Close.addEventListener("click", () => {
+  overlay4.classList.remove("overlay4--active");
+});
+
+overlay5Open.addEventListener("click", () => {
+  overlay5.classList.add("overlay5--active");
+});
+
+overlay5Close.addEventListener("click", () => {
+  overlay5.classList.remove("overlay5--active");
+});
+
 menuOpen.addEventListener("click", () => {
   overlay.classList.add("overlay--active");
   bar.style.top = "-80px";
@@ -60,6 +82,7 @@ menuClose3.addEventListener("click", () => {
 menuClose4.addEventListener("click", () => {
   overlay.classList.remove("overlay--active");
 });
+
 
 var lastScrollTop = 0;
 bar = document.getElementById("bar");
@@ -85,4 +108,6 @@ document.addEventListener("mouseup", function (event) {
   overlay1.classList.remove("overlay1--active");
   overlay2.classList.remove("overlay2--active");
   overlay3.classList.remove("overlay3--active");
+  overlay4.classList.remove("overlay4--active");
+  overlay5.classList.remove("overlay5--active");
 });
