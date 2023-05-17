@@ -632,6 +632,114 @@ main {
   color: #0088a9;
 }
 
+.overlay6 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  display: none;
+  overflow-x: hidden;
+  z-index: 100;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
+.overlay6--active {
+  display: block;
+}
+
+.overlay6 .cls6 {
+  position: fixed;
+  right: 0;
+  width: fit-content;
+  overflow-x: hidden;
+  text-align: end;
+  padding-right: 10px;
+  font-size: 50px;
+  padding: fit-content;
+  color: #ffffff;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+.overlay6 .cls6:hover,
+.overlay6 .cls6:focus {
+  color: #0088a9;
+}
+
+.overlay7 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  display: none;
+  overflow-x: hidden;
+  z-index: 100;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
+.overlay7--active {
+  display: block;
+}
+
+.overlay7 .cls7 {
+  position: fixed;
+  right: 0;
+  width: fit-content;
+  overflow-x: hidden;
+  text-align: end;
+  padding-right: 10px;
+  font-size: 50px;
+  padding: fit-content;
+  color: #ffffff;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+.overlay7 .cls7:hover,
+.overlay7 .cls7:focus {
+  color: #0088a9;
+}
+
+.overlay8 {
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  display: none;
+  overflow-x: hidden;
+  z-index: 100;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+}
+
+.overlay8--active {
+  display: block;
+}
+
+.overlay8 .cls8 {
+  position: fixed;
+  right: 0;
+  width: fit-content;
+  overflow-x: hidden;
+  text-align: end;
+  padding-right: 10px;
+  font-size: 50px;
+  padding: fit-content;
+  color: #ffffff;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+}
+
+.overlay8 .cls8:hover,
+.overlay8 .cls8:focus {
+  color: #0088a9;
+}
+
 .box-Contact {
   display: flex;
   flex-wrap: wrap;

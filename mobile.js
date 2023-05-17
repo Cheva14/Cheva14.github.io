@@ -20,6 +20,15 @@ const overlay4 = document.querySelector(".overlay4");
 const overlay5Open = document.querySelector(".open-overlay5");
 const overlay5Close = document.querySelector(".cls5");
 const overlay5 = document.querySelector(".overlay5");
+const overlay6Open = document.querySelector(".open-overlay6");
+const overlay6Close = document.querySelector(".cls6");
+const overlay6 = document.querySelector(".overlay6");
+const overlay7Open = document.querySelector(".open-overlay7");
+const overlay7Close = document.querySelector(".cls7");
+const overlay7 = document.querySelector(".overlay7");
+const overlay8Open = document.querySelector(".open-overlay8");
+const overlay8Close = document.querySelector(".cls8");
+const overlay8 = document.querySelector(".overlay8");
 
 overlay1Open.addEventListener("click", () => {
   overlay1.classList.add("overlay1--active");
@@ -60,6 +69,31 @@ overlay5Open.addEventListener("click", () => {
 overlay5Close.addEventListener("click", () => {
   overlay5.classList.remove("overlay5--active");
 });
+
+overlay6Open.addEventListener("click", () => {
+  overlay6.classList.add("overlay6--active");
+});
+
+overlay6Close.addEventListener("click", () => {
+  overlay6.classList.remove("overlay6--active");
+});
+
+overlay7Open.addEventListener("click", () => {
+  overlay7.classList.add("overlay7--active");
+});
+
+overlay7Close.addEventListener("click", () => {
+  overlay7.classList.remove("overlay7--active");
+});
+
+overlay8Open.addEventListener("click", () => {
+  overlay8.classList.add("overlay8--active");
+});
+
+overlay8Close.addEventListener("click", () => {
+  overlay8.classList.remove("overlay8--active");
+});
+
 
 menuOpen.addEventListener("click", () => {
   overlay.classList.add("overlay--active");
@@ -110,4 +144,7 @@ document.addEventListener("mouseup", function (event) {
   overlay3.classList.remove("overlay3--active");
   overlay4.classList.remove("overlay4--active");
   overlay5.classList.remove("overlay5--active");
+  overlay6.classList.remove("overlay6--active");
+  overlay7.classList.remove("overlay7--active");
+  overlay8.classList.remove("overlay8--active");
 });
