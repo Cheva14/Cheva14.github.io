@@ -491,7 +491,7 @@ const contactPageData = {
     postalCode: "49401",
     streetAddress: "dr campus",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://streamlabs.com/cheva14/tip",
+    location_map_link: "https://www.buymeacoffee.com/cheva",
   },
   phoneSection: {
     title: "",
