@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "An enthusiastic individual who collaborates well, enjoys learning from others, and excels at creating websites and mobile apps.",
   resumeLink:
-    "https://docs.google.com/document/d/e/2PACX-1vSZUDov8tiaC_NS3lx_01Wfynvo9H6r4gNxpuvn1hmXO2ktXlts06-zgLxoVbnZ0iEdiwlHYjx2wSJq/pub",
+    "https://drive.google.com/file/d/1UhPTNNsS25bWknWZIiCNLb1tc9wA1Gse/view?usp=sharing",
   githubProfile: "https://github.com/cheva14",
 };
 
