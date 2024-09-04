@@ -383,27 +383,35 @@ const publications = {
     },
     {
       id: "3",
+      name: "CampusExplorer",
+      createdAt: "2024",
+      description:
+        "Android app designed to enhance the experience of navigating and exploring college campus.",
+      url: "https://www.youtube.com/watch?v=ifXPETEElIg",
+    },
+    {
+      id: "4",
       name: "WebChads",
       createdAt: "2023",
       description: "Web App to chat with friends.",
       url: "https://webchads.web.app/",
     },
     {
-      id: "4",
+      id: "5",
       name: "Circulatory System",
       createdAt: "2023",
       description: "Informative website about circulatory system in anatomy.",
       url: "https://circulatorysystem.vercel.app/",
     },
     {
-      id: "5",
+      id: "6",
       name: "Padel Tracker",
       createdAt: "2023",
       description: "Web App to keep track of your padel matches",
       url: "https://padel-27c21.web.app/",
     },
     {
-      id: "5",
+      id: "7",
       name: "Connect X",
       createdAt: "2022",
       description:
@@ -411,14 +419,14 @@ const publications = {
       url: "https://github.com/Cheva14/Connect-X",
     },
     {
-      id: "6",
+      id: "8",
       name: "Cheva's Market (In Development)",
       createdAt: "2023",
       description: "E-Commerce App to sell my own products.",
       url: "https://chevasmarket.vercel.app/",
     },
     {
-      id: "7",
+      id: "9",
       name: "Encrypted Chat",
       createdAt: "2022",
       description: "Encrypted Client-Server Chat over TPC Sockets.",
@@ -426,7 +434,7 @@ const publications = {
     },
 
     {
-      id: "8",
+      id: "10",
       name: "File Transfer",
       createdAt: "2022",
       description:
@@ -434,7 +442,7 @@ const publications = {
       url: "https://github.com/Cheva14/Reliable-File-Transfer-over-UDP",
     },
     {
-      id: "9",
+      id: "11",
       name: "16-Bit ALU",
       createdAt: "2022",
       description:
@@ -442,14 +450,14 @@ const publications = {
       url: "https://github.com/Cheva14/ALU-16-Bit",
     },
     {
-      id: "10",
+      id: "12",
       name: "World Reports",
       createdAt: "2023",
       description: "Full-Stack Application to generate Population Reports.",
       url: "https://github.com/Cheva14/FullStackApp",
     },
     {
-      id: "11",
+      id: "13",
       name: "Car Price Prediction",
       createdAt: "2023",
       description:
@@ -457,7 +465,7 @@ const publications = {
       url: "https://github.com/Cheva14/Price-Prediction",
     },
     {
-      id: "12",
+      id: "14",
       name: "Navigation System",
       createdAt: "2023",
       description:
