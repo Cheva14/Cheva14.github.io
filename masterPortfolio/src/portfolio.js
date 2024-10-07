@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Sebastian's Portfolio",
   description:
-    "An enthusiastic individual who collaborates well, enjoys learning from others, and excels at creating and managing websites.",
+    "A cool guy that loves to collaborate with other developers, enjoys learning from others, and excels at creating cross-platform apps.",
   og: {
     title: "Sebastian's Portfolio",
     type: "website",
@@ -22,7 +22,7 @@ const greeting = {
   title: "Sebastian Torrejon Alonzo",
   logo_name: "Cheva",
   subTitle:
-    "An enthusiastic individual who collaborates well, enjoys learning from others, and excels at creating websites and mobile apps.",
+    "A cool guy that loves to collaborate with other developers, enjoys learning from others, and excels at creating cross-platform apps.",
   resumeLink:
     "https://drive.google.com/file/d/1P7SlxFn6dYyUNU_-ywGdXT53e5s_SPfK/view?usp=sharing",
   githubProfile: "https://github.com/cheva14",
@@ -82,12 +82,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Web App Development",
+      title: "Web & Mobile App Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end mainly using React",
-        "⚡ Creating application backend in Firebase and other API's",
-        "⚡ Maintaining and hosting servers with multiple services",
+        "⚡ Building responsive websites",
+        "⚡ Creating mobile applications",
+        "⚡ Maintaining and Applying API services",
       ],
       softwareSkills: [
         {
@@ -103,32 +103,16 @@ const skills = {
           fontAwesomeClassname: "devicon:bootstrap",
         },
         {
-          skillName: "Sass",
-          fontAwesomeClassname: "devicon:sass",
-        },
-        {
           skillName: "JavaScript",
           fontAwesomeClassname: "devicon:javascript",
-        },
-        {
-          skillName: "TypeScript",
-          fontAwesomeClassname: "devicon:typescript",
         },
         {
           skillName: "React",
           fontAwesomeClassname: "devicon:react",
         },
         {
-          skillName: "VueJS",
-          fontAwesomeClassname: "devicon:vuejs",
-        },
-        {
           skillName: "NodeJS",
           fontAwesomeClassname: "devicon:nodejs",
-        },
-        {
-          skillName: "ExpressJS",
-          fontAwesomeClassname: "devicon:express",
         },
         {
           skillName: "ColdFusion",
@@ -145,25 +129,6 @@ const skills = {
           skillName: "Firebase",
           fontAwesomeClassname: "logos:firebase",
         },
-        {
-          skillName: "Vercel",
-          fontAwesomeClassname: "devicon:vercel",
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "logos:aws",
-        },
-      ],
-    },
-    {
-      title: "Mobile App Development",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Building universal apps with React Native and Expo",
-        "⚡ Creating application backend in Firebase and other API's",
-        "⚡ Deploying and maintaining apps to the App Store and Play Store",
-      ],
-      softwareSkills: [
         {
           skillName: "Expo",
           fontAwesomeClassname: "logos:expo-icon",
@@ -184,7 +149,28 @@ const skills = {
           skillName: "Kotlin",
           fontAwesomeClassname: "devicon:kotlin",
         },
+        {
+          skillName: ".NET",
+          fontAwesomeClassname: "devicon:dotnetcore",
+        },
+        {
+          skillName: "Flutter",
+          fontAwesomeClassname: "devicon:flutter",
+        },
       ],
+    },
+    {
+      title: "Software Engineering",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Well rounded Developer",
+        "⚡ Data Science Analysis",
+        "⚡ Database Management",
+        "⚡ Version Control Systems",
+        "⚡ Software Development Methodologies",
+        "⚡ System Design",
+      ],
+      softwareSkills: [],
     },
   ],
 };
@@ -223,10 +209,10 @@ const degrees = {
   degrees: [
     {
       title: "Grand Valley State University",
-      subtitle: "B.S. in Computer Science",
+      subtitle: "B.S. in Computer Science & Minor in Mathematics",
       logo_path: "gvsu_logo.png",
       alt_name: "GVSU",
-      duration: "2020 - Present",
+      duration: "2020 - 2024",
       descriptions: [
         "⚡ I studied software developing subjects like Database, Algorithms, Data Structures, etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
@@ -301,41 +287,112 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internships",
+  subtitle: "",
   description:
-    "I have worked in a well established University mostly as Web Developer. I love creating websites and that is why my experience focuses on that.",
+    "I have worked in multiple internships and I am actively looking to expand my work experience. I love creating websites and mobile apps, that is why my experience focuses on that.",
   header_image_path: "experience.svg",
   sections: [
+    // {
+    //   title: "Work",
+    //   work: true,
+    //   experiences: [
+    //     {
+    //       title: "Student Employee",
+    //       company: "Laker Food Co.",
+    //       company_url: "https://www.gvsu.edu/campusdine/",
+    //       logo_path: "lakerfoodco.png",
+    //       duration: "2021 - Present",
+    //       location: "Michigan",
+    //       description:
+    //         "I was responsible for assisting withe the preparation, cooking, serving and storage of food according to standards using various equipment and utensils. I Assisted with cleaning and snitation of the facility and equipment. I followed all safety and food handling guidelines. I reported to fulltime employees and management as assigned. I became familiar with and follow all policies, procedures, and standards, other duties as assigned, and I provided eexceptional customer service to guests that visit the dining location.",
+    //       color: "#0879bf",
+    //     },
+    //   ],
+    // },
+
     {
-      title: "Work",
-      work: true,
+      title: "Tech-related Experience",
       experiences: [
         {
-          title: "Student Employee",
-          company: "Laker Food Co.",
-          company_url: "https://www.gvsu.edu/campusdine/",
-          logo_path: "lakerfoodco.png",
-          duration: "2021 - Present",
-          location: "Michigan",
+          title: "iOS Developer Intern",
+          company: "Smart Rewards Inc",
+          company_url: "https://www.smartrewardsinc.com/",
+          logo_path: "smartcookies_logo.png",
+          duration: "Sep 2024 - Present",
+          location: "Remote, NJ",
           description:
-            "I was responsible for assisting withe the preparation, cooking, serving and storage of food according to standards using various equipment and utensils. I Assisted with cleaning and snitation of the facility and equipment. I followed all safety and food handling guidelines. I reported to fulltime employees and management as assigned. I became familiar with and follow all policies, procedures, and standards, other duties as assigned, and I provided eexceptional customer service to guests that visit the dining location.",
-          color: "#0879bf",
+            "Worked with design and marketing teams to integrate user feedback into iOS app development, helping keep more users engaged.",
+          descriptiontwo:
+            "Took part in regular code reviews with senior developers to improve coding skills and follow best practices, reducing the number of bugs.",
+          descriptionthree:
+            "Used performance monitoring tools to find and fix issues that slowed down app speed, leading to faster loading times on all devices.",
+          color: "#40AEF0",
+        },
+        {
+          title: "3D Vision Developer Trainee",
+          company: "Open Avenues Foundation",
+          company_url: "https://www.smartrewardsinc.com/",
+          logo_path: "OAF_logo.jpeg",
+          duration: "Oct 2024 - Dec 2024",
+          location: "Remote, CA",
+          description:
+            "Worked on hands-on exercises involving camera models, image processing, and stereo vision, contributing to the development of a functional 3D reconstruction tool.",
+          descriptiontwo:
+            "Learned foundational concepts in computer vision, 3D data visualization, and the mathematical principles behind 3D reconstruction techniques.",
+          descriptionthree:
+            "Provided a strong introduction to computer vision technologies used in fields like robotics and augmented reality.",
+          color: "#40AEF0",
+        },
+        {
+          title: "Software Developer Intern",
+          company: "GVSU IT",
+          company_url: "https://www.gvsu.edu/it/",
+          logo_path: "gvsu_logo.png",
+          duration: "Jun 2023 - Aug 2023",
+          location: "Allendale, MI",
+          description:
+            "Led the use of Agile methodology in software projects, improving team efficiency and ensuring most projects were delivered on time.",
+          descriptiontwo:
+            "Applied coding best practices to maintain and improve software systems, reducing downtime and boosting system performance.",
+          descriptionthree:
+            "Helped design and develop user-friendly interfaces for new applications, leading to better user satisfaction.",
+          color: "#40AEF0",
         },
       ],
     },
     {
-      title: "Internships",
+      title: "Non-Tech Work Experience",
+      work: true,
       experiences: [
         {
-          title: "Enterprise Applications Intern",
-          company: "GVSU IT",
-          company_url: "https://www.gvsu.edu/it/",
+          title: "Warehouse Student Worker",
+          company: "Grand Valley State University",
+          company_url: "https://www.gvsu.edu/facilitiesservices/",
           logo_path: "gvsu_logo.png",
-          duration: "June 2023 - Aug 2023",
-          location: "Michigan, USA",
+          duration: "Jun 2024 - Dec 2024",
+          location: "Allendale, MI",
           description:
-            "Building new features on the backend recommendation system, specifically developed enhacements and systems. Applying access control, secure application development practices. Implementation of accessible applications. Reporting generation using custom SQL and visual report designer.",
-          color: "#40AEF0",
+            "Managed and assembled material requests for delivery, ensuring accurate and timely order fulfillment.",
+          descriptiontwo:
+            "Monitored and maintained inventory levels, regularly updating stock counts to prevent shortages or overstocking.",
+          descriptionthree:
+            "Adjusted inventory records to reflect incoming and outgoing materials, keeping the system accurate and up to date.",
+          color: "#0879bf",
+        },
+        {
+          title: "Student Food Worker",
+          company: "Laker Food Co.",
+          company_url: "https://www.gvsu.edu/campusdine/",
+          logo_path: "lakerfoodco.png",
+          duration: "Jan 2021 - Dec 2024",
+          location: "Allendale, MI",
+          description:
+            "Responsible for assisting withe the preparation, cooking, serving and storage of food according to standards using various equipment and utensils.",
+          descriptiontwo:
+            "Assisted with cleaning and snitation of the facility and equipment. I followed all safety and food handling guidelines. ",
+          descriptionthree:
+            "Provided eexceptional customer service to guests that visit the dining location.",
+          color: "#0879bf",
         },
       ],
     },
@@ -344,16 +401,15 @@ const experience = {
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
+  title: "Coding Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Back End projects and deploy them to web applications using cloud infrastructure.",
+    "These are a few coding projects I have coded for school and of my own using lots of technologies.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Portfolio",
-  description:
-    "I have worked on a few coding projects for school and of my own.",
+  description: "",
   avatar_image_path: "projects_image.svg",
 };
 

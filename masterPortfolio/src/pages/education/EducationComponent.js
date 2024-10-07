@@ -32,7 +32,7 @@ class Education extends Component {
                   Education
                 </h1>
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
-                  Senior Pursuing a BS in Computer Science
+                  Current College Undergrad Student
                 </h3>
               </div>
             </div>
