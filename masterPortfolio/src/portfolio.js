@@ -469,20 +469,28 @@ const publications = {
     },
     {
       id: "5",
+      name: "GVHours",
+      createdAt: "2024",
+      description:
+        "Web App to find Acurrate Open Hours for places of interest on campus.",
+      url: "https://gvhours.vercel.app/",
+    },
+    {
+      id: "6",
       name: "Circulatory System",
       createdAt: "2023",
       description: "Informative website about circulatory system in anatomy.",
       url: "https://circulatorysystem.vercel.app/",
     },
     {
-      id: "6",
+      id: "7",
       name: "Padel Tracker",
       createdAt: "2023",
       description: "Web App to keep track of your padel matches",
       url: "https://padel-27c21.web.app/",
     },
     {
-      id: "7",
+      id: "8",
       name: "Connect X",
       createdAt: "2022",
       description:
@@ -490,14 +498,14 @@ const publications = {
       url: "https://github.com/Cheva14/Connect-X",
     },
     {
-      id: "8",
+      id: "9",
       name: "Cheva's Market (In Development)",
       createdAt: "2023",
       description: "E-Commerce App to sell my own products.",
       url: "https://chevasmarket.vercel.app/",
     },
     {
-      id: "9",
+      id: "10",
       name: "Encrypted Chat",
       createdAt: "2022",
       description: "Encrypted Client-Server Chat over TPC Sockets.",
@@ -505,7 +513,7 @@ const publications = {
     },
 
     {
-      id: "10",
+      id: "11",
       name: "File Transfer",
       createdAt: "2022",
       description:
@@ -513,7 +521,7 @@ const publications = {
       url: "https://github.com/Cheva14/Reliable-File-Transfer-over-UDP",
     },
     {
-      id: "11",
+      id: "12",
       name: "16-Bit ALU",
       createdAt: "2022",
       description:
@@ -521,14 +529,14 @@ const publications = {
       url: "https://github.com/Cheva14/ALU-16-Bit",
     },
     {
-      id: "12",
+      id: "13",
       name: "World Reports",
       createdAt: "2023",
       description: "Full-Stack Application to generate Population Reports.",
       url: "https://github.com/Cheva14/FullStackApp",
     },
     {
-      id: "13",
+      id: "14",
       name: "Car Price Prediction",
       createdAt: "2023",
       description:
@@ -536,7 +544,7 @@ const publications = {
       url: "https://github.com/Cheva14/Price-Prediction",
     },
     {
-      id: "14",
+      id: "15",
       name: "Navigation System",
       createdAt: "2023",
       description:
