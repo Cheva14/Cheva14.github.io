@@ -394,6 +394,21 @@ const experience = {
             "Provided eexceptional customer service to guests that visit the dining location.",
           color: "#0879bf",
         },
+        {
+          title: "International Student Orientation Leader",
+          company: "GVSU",
+          company_url: "https://www.gvsu.edu/istudents/",
+          logo_path: "gvsu_logo.png",
+          duration: "Aug 2024 - Aug 2024",
+          location: "Allendale, MI",
+          description:
+            "Led and guided new international students through orientation, providing support and fostering a welcoming environment.",
+          descriptiontwo:
+            "Planned, organized, and executed events to ease students’ transition to university life and enhance cultural integration.",
+          descriptionthree:
+            "Collaborated with a diverse team to deliver a smooth and engaging orientation experience for students from various cultural backgrounds.",
+          color: "#0879bf",
+        },
       ],
     },
   ],
