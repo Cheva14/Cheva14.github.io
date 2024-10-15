@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A cool guy that loves to collaborate with other developers, enjoys learning from others, and excels at creating cross-platform apps.",
   resumeLink:
-    "https://drive.google.com/file/d/1P7SlxFn6dYyUNU_-ywGdXT53e5s_SPfK/view?usp=sharing",
+    "https://drive.google.com/file/d/1fUXT1wEzyBTHYpqsMI0FP6gfn487AhX7/view?usp=sharing",
   githubProfile: "https://github.com/cheva14",
 };
 
@@ -474,6 +474,14 @@ const publications = {
       description:
         "Web App to find Acurrate Open Hours for places of interest on campus.",
       url: "https://gvhours.vercel.app/",
+    },
+    {
+      id: "5",
+      name: "Pixel to Point Cloud",
+      createdAt: "2024",
+      description:
+        "(In Development) A 3D vision pipeline to transform 2D images into 3D point clouds using Python, focusing on camera models, image processing, and stereo vision.",
+      url: "",
     },
     {
       id: "6",
