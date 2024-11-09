@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A cool guy that loves to collaborate with other developers, enjoys learning from others, and excels at creating cross-platform apps.",
   resumeLink:
-    "https://drive.google.com/file/d/1fUXT1wEzyBTHYpqsMI0FP6gfn487AhX7/view?usp=sharing",
+    "https://drive.google.com/file/d/1XnYx3R-a7FFM-QKpw9IwjgSsWfdrScve/view?usp=sharing",
   githubProfile: "https://github.com/cheva14",
 };
 
