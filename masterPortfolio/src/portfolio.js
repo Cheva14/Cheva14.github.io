@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Sebastian's Portfolio",
   description:
-    "A cool guy that loves to collaborate with other developers, enjoys learning from others, and excels at creating cross-platform apps.",
+    "A guy that loves to collaborate with other developers, enjoys learning from others, and excels at creating personalized and unique apps.",
   og: {
     title: "Sebastian's Portfolio",
     type: "website",
@@ -22,9 +22,9 @@ const greeting = {
   title: "Sebastian Torrejon Alonzo",
   logo_name: "Cheva",
   subTitle:
-    "A cool guy that loves to collaborate with other developers, enjoys learning from others, and excels at creating cross-platform apps.",
+    "A guy that loves to collaborate with other developers, enjoys learning from others, and excels at creating personalized and unique apps.",
   resumeLink:
-    "https://drive.google.com/file/d/1XnYx3R-a7FFM-QKpw9IwjgSsWfdrScve/view?usp=sharing",
+    "https://drive.google.com/file/d/1MbCkGUgF-iPN4DHWAO8tdl1DM1qzbWu3/view?usp=sharing",
   githubProfile: "https://github.com/cheva14",
 };
 
@@ -321,26 +321,11 @@ const experience = {
           duration: "Sep 2024 - Present",
           location: "Remote, NJ",
           description:
-            "Worked with design and marketing teams to integrate user feedback into iOS app development, helping keep more users engaged.",
+            "Developed feature updates and application enhancements with SwiftUI, following best practices in code quality and version control for efficient project management and collaboration.",
           descriptiontwo:
-            "Took part in regular code reviews with senior developers to improve coding skills and follow best practices, reducing the number of bugs.",
+            "Resolved deployment issues for Flutter-based apps on iOS, improving testing reliability and app functionality.",
           descriptionthree:
-            "Used performance monitoring tools to find and fix issues that slowed down app speed, leading to faster loading times on all devices.",
-          color: "#40AEF0",
-        },
-        {
-          title: "3D Vision Developer Trainee",
-          company: "Open Avenues Foundation",
-          company_url: "https://www.smartrewardsinc.com/",
-          logo_path: "OAF_logo.jpeg",
-          duration: "Oct 2024 - Dec 2024",
-          location: "Remote, CA",
-          description:
-            "Worked on hands-on exercises involving camera models, image processing, and stereo vision, contributing to the development of a functional 3D reconstruction tool.",
-          descriptiontwo:
-            "Learned foundational concepts in computer vision, 3D data visualization, and the mathematical principles behind 3D reconstruction techniques.",
-          descriptionthree:
-            "Provided a strong introduction to computer vision technologies used in fields like robotics and augmented reality.",
+            "Maintained iOS applications by debugging and updating legacy apps written in Objective-C to ensure compatibility with the latest versions.",
           color: "#40AEF0",
         },
         {
@@ -351,11 +336,11 @@ const experience = {
           duration: "Jun 2023 - Aug 2023",
           location: "Allendale, MI",
           description:
-            "Led the use of Agile methodology in software projects, improving team efficiency and ensuring most projects were delivered on time.",
+            "Developed and maintained a web application using client-side technologies like HTML, CSS, JavaScript, and server-side scripting with ColdFusion to enhance school information systems.",
           descriptiontwo:
-            "Applied coding best practices to maintain and improve software systems, reducing downtime and boosting system performance.",
+            "Designed and optimized relational database queries with MySQL Server to ensure data consistency and reliable application functionality.",
           descriptionthree:
-            "Helped design and develop user-friendly interfaces for new applications, leading to better user satisfaction.",
+            "Collaborated in code reviews using version control to improve code quality and collaboration.",
           color: "#40AEF0",
         },
       ],
