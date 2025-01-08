@@ -315,10 +315,25 @@ const experience = {
       experiences: [
         {
           title: "iOS Developer Intern",
+          company: "Esurgi Inc",
+          company_url: "https://myesurgi.com/",
+          logo_path: "esurgi_logo.png",
+          duration: "January 2025 - Present",
+          location: "Remote, MD",
+          description:
+            "Collaborated with the development team to design, build, and maintain iOS applications, focusing on UI/UX design, functionality, and performance optimization.",
+          descriptiontwo:
+            "Wrote clean, maintainable, and efficient code while participating in code reviews to enhance coding standards and practices.",
+          descriptionthree:
+            "Assisted in testing and debugging applications, identifying and resolving issues to ensure a high-quality user experience. Documented development processes and best practices for maintainability.",
+          color: "#40AEF0"
+        },
+        {
+          title: "iOS Developer Intern",
           company: "Smart Rewards Inc",
           company_url: "https://www.smartrewardsinc.com/",
           logo_path: "smartcookies_logo.png",
-          duration: "Sep 2024 - Present",
+          duration: "Sep 2024 - Dec 2024",
           location: "Remote, NJ",
           description:
             "Developed feature updates and application enhancements with SwiftUI, following best practices in code quality and version control for efficient project management and collaboration.",
