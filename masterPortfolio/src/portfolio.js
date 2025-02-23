@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A guy that loves to collaborate with other developers, enjoys learning from others, and excels at creating personalized and unique apps.",
   resumeLink:
-    "https://drive.google.com/file/d/1MbCkGUgF-iPN4DHWAO8tdl1DM1qzbWu3/view?usp=sharing",
+    "https://drive.google.com/file/d/1gphUoYQ5pI1uj_hf0khwOaDokIIxEVIx/view?usp=sharing",
   githubProfile: "https://github.com/cheva14",
 };
 
@@ -122,8 +122,8 @@ const skills = {
           },
         },
         {
-          skillName: "SQLDev",
-          fontAwesomeClassname: "devicon:sqldeveloper",
+          skillName: "MySQL",
+          fontAwesomeClassname: "devicon:mysql",
         },
         {
           skillName: "Firebase",
@@ -156,6 +156,22 @@ const skills = {
         {
           skillName: "Flutter",
           fontAwesomeClassname: "devicon:flutter",
+        },
+        {
+          skillName: "PHP",
+          fontAwesomeClassname: "devicon:php",
+        },
+        {
+          skillName: "VueJS",
+          fontAwesomeClassname: "devicon:vuejs",
+        },
+        {
+          skillName: "Laravel",
+          fontAwesomeClassname: "devicon:laravel",
+        },
+        {
+          skillName: "Symfony",
+          fontAwesomeClassname: "devicon:symfony",
         },
       ],
     },
@@ -314,11 +330,26 @@ const experience = {
       title: "Tech-related Experience",
       experiences: [
         {
+          title: "Junior Full Stack Developer",
+          company: "Backflow Solutions Inc",
+          company_url: "https://backflowsolutions.com/",
+          logo_path: "bsionline_logo.png",
+          duration: "March 2025 - Present",
+          location: "Remote, IL",
+          description:
+            "Developed and maintained web applications by implementing user interfaces with Vue.js and writing clean, efficient PHP code for backend functionalities.",
+          descriptiontwo:
+            "Worked with MySQL databases to design, store, and retrieve data efficiently while optimizing queries for better performance.",
+          descriptionthree:
+            "Collaborated with senior developers in code reviews, implementing best practices, and staying updated with the latest frontend and backend development trends to enhance application functionality and user experience.",
+          color: "#40AEF0",
+        },
+        {
           title: "iOS Developer Intern",
           company: "Esurgi Inc",
           company_url: "https://myesurgi.com/",
           logo_path: "esurgi_logo.png",
-          duration: "January 2025 - Present",
+          duration: "January 2025 - February 2025",
           location: "Remote, MD",
           description:
             "Collaborated with the development team to design, build, and maintain iOS applications, focusing on UI/UX design, functionality, and performance optimization.",
@@ -326,7 +357,7 @@ const experience = {
             "Wrote clean, maintainable, and efficient code while participating in code reviews to enhance coding standards and practices.",
           descriptionthree:
             "Assisted in testing and debugging applications, identifying and resolving issues to ensure a high-quality user experience. Documented development processes and best practices for maintainability.",
-          color: "#40AEF0"
+          color: "#40AEF0",
         },
         {
           title: "iOS Developer Intern",

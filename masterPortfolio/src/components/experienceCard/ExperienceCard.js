@@ -101,17 +101,18 @@ class ExperienceCard extends Component {
               <div
                 style={{
                   display: "flex",
-                  justifyContent: "flex-start",
+                  flexDirection: "column",
+                  alignItems: "flex-start",
                   marginTop: 20,
                   color: "white",
                 }}
               >
-                <div className="repo-description" />
-                {experience["description"]}
-                <br></br>
-                {experience["descriptiontwo"]}
-                <br></br>
-                {experience["descriptionthree"]}
+                {/* <div className="repo-description" /> */}
+                <ul style={{ paddingLeft: "20px", margin: 0 }}>
+                  <li>{experience["description"]}</li>
+                  <li>{experience["descriptiontwo"]}</li>
+                  <li>{experience["descriptionthree"]}</li>
+                </ul>
               </div>
             </div>
           </div>

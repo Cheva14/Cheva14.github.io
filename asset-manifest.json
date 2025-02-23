@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.11abd8b2.css",
-    "main.js": "/static/js/main.b4f81bdc.js",
+    "main.js": "/static/js/main.1f9e21d0.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -37,16 +37,18 @@
     "static/media/lakerfoodco.png": "/static/media/lakerfoodco.226da643c2b031810358.png",
     "static/media/gvsu_logo.png": "/static/media/gvsu_logo.1f09b6e0ab53230ea568.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
-    "static/media/smartcookies_logo.png": "/static/media/smartcookies_logo.98cac47422c0ad6ba50f.png",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.a40e290031eaf389bde1.png",
+    "static/media/bsionline_logo.png": "/static/media/bsionline_logo.4cd6dc227fc993345a32.png",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.14bc947aebe4b57dd2bc.png",
     "static/media/gcp_logo.png": "/static/media/gcp_logo.63bb0649c9716d110b14.png",
     "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.86ce78132c18df414d83.eot",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.235a1aa30ba10c7d00d0.ttf",
     "static/media/legato_logo.png": "/static/media/legato_logo.227e72c7979187840ba3.png",
+    "static/media/esurgi_logo.png": "/static/media/esurgi_logo.bd12f53f5390e90fabca.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.967f31dad3158d5be07b.svg",
     "static/media/github_logo.png": "/static/media/github_logo.15e591a7397b9ef45656.png",
+    "static/media/smartcookies_logo.png": "/static/media/smartcookies_logo.8e336d3bb49137afa855.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.547075a751cc15673246.jpg",
     "static/media/projects_image.svg": "/static/media/projects_image.0a8062569966b4888c7c.svg",
     "static/media/programmer.svg": "/static/media/programmer.d3060f7bf0527835d72e.svg",
@@ -54,7 +56,6 @@
     "static/media/address_image.svg": "/static/media/address_image.3385d92e5e426e57a5b1.svg",
     "static/media/pwa.png": "/static/media/pwa.5107022416df1293dd12.png",
     "static/media/experience.svg": "/static/media/experience.c50c576af78a4172f78d.svg",
-    "static/media/esurgi_logo.png": "/static/media/esurgi_logo.f871667ca635622484c2.png",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/codecademy_logo.webp": "/static/media/codecademy_logo.f955d2e3d3de0ef7e132.webp",
@@ -71,10 +72,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.11abd8b2.css.map": "/static/css/main.11abd8b2.css.map",
-    "main.b4f81bdc.js.map": "/static/js/main.b4f81bdc.js.map"
+    "main.1f9e21d0.js.map": "/static/js/main.1f9e21d0.js.map"
   },
   "entrypoints": [
     "static/css/main.11abd8b2.css",
-    "static/js/main.b4f81bdc.js"
+    "static/js/main.1f9e21d0.js"
   ]
 }
